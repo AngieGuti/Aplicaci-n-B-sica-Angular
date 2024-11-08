@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core'; // import de Angular para el decorador
 import { CommonModule } from '@angular/common'; // básico de Angular (CommonModule) que todos los módulos deben importar 
-import { CourseComponent } from './course.component'; // importa el archivo del componente CourseComponent
+import { CourseComponent } from './course.component';
 
 @NgModule({
   imports: [ // valor es un arreglo de los nombres de los módulos que necesita este módulo
